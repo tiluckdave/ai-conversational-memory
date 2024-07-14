@@ -1,7 +1,5 @@
 # Natural Language Query Agent
 
-> Submission of Take Home Assignment for the AI Resident role at Ema
-
 This project demonstrates the creation of a Natural Language Query Agent to answer questions over a small set of lecture notes and a table of LLM architectures. The aim is to showcase the ability to work with data, implement techniques to solve tasks related to natural language processing, and provide conversational answers to simple queries.
 
 ## Approach
